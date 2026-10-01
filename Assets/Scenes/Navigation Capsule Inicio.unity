@@ -313,8 +313,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   agent: {fileID: 451978600}
-  target: {fileID: 1881721299}
-  target2: {fileID: 344415384}
+  targets:
+  - {fileID: 1881721299}
+  - {fileID: 344415384}
   targetAux: {fileID: 0}
 --- !u!1 &534669902
 GameObject:
